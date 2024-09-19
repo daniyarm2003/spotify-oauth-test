@@ -1,0 +1,11 @@
+.login-div {
+    text-align: center;
+}
+
+.login-button {
+    width: 30%;
+    max-width: 200px;
+
+    height: 20%;
+    max-height: 100px;
+}
